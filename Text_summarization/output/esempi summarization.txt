@@ -1,0 +1,37 @@
+Testo:
+'Nell’ambito dell’esposizione ai Mercati emergenti, il comparto può investire fino al 20% del patrimonio netto in azioni emesse da società con sede principale nella Cina continentale (comprese le Azioni A cinesi). Il comparto è un prodotto che promuove caratteristiche ambientali o sociali o una combinazione di tali caratteristiche ai fini dell’articolo 8 del Regolamento relativo all’informativa sulla sostenibilità nel settore finanziario. Il comparto punta a generare una crescita del capitale investendo principalmente in titoli azionari emessi da società in tutto il mondo (compresi i Mercati emergenti) con notorietà del marchio leader/premium secondo il parere del Gestore e/o che offrono prodotti e/o servizi di lusso, premium e prestige, o che conseguono la maggior parte dei loro ricavi consigliando, fornendo, realizzando o finanziando le suddette attività.'
+
+Riassunto riferimento:
+'Il fondo investe in azioni in società con sede in tutto il mondo, specialmente in Mercati sviluppati ed emergenti. Il fondo investe principalmente nel settore Consumi discrezionali, in aziende All Cap. Il fondo ha uno stile Growth & Value.'
+
+Riassunto generato Bart:
+'Il comparto deterrà prevalentemente azioni in società con sede in tutto il mondo, specialmente in Mercati sviluppati ed emergenti, in aziende Large & Mid Cap di tipo Growth & Value.'
+
+Riassunto generato Pegasus:
+'Il comparto deterr prevalentemente azioni in societ con sede in tutto il mondo, specialmente in Mercati sviluppati ed emergenti, in societ Large & Mid Cap di tipo Value.'
+
+
+Testo:
+"Il fondo investe almeno l'85% del proprio patrimonio in azioni della classe MFC di DWS ESG Dynamic Opportunities (il fondo master). L'obiettivo della politica d'investimento di DWS ESG Dynamic Opportunities è il conseguimento della massima rivalutazione possibile del capitale. A tale scopo, il fondo investe principalmente in azioni di emittenti nazionali e internazionali. Vengono selezionate in particolare società che rispondono a rigorosi requisiti in termini di posizione di mercato, potenziale di crescita e strategia aziendale corrente. Oltre a investire in azioni, il fondo investe in titoli obbligazionari certificati, fondi, derivati e strumenti del mercato monetario. A tale riguardo, la scelta dei singoli investimenti è rimessa alla gestione del fondo. Obiettivo della politica d'investimento è il conseguimento di una rivalutazione del capitale superiore alla media."
+
+Riassunto riferimento:
+'Il fondo investe principalmente in azioni in società con sede in tutto il mondo, specialmente in Mercati sviluppati ed emergenti, in società All Cap di tipo Growth & Value.'
+
+Riassunto generato Bart:
+'Il comparto deterrà prevalentemente azioni in società con sede in tutto il mondo, specialmente in Mercati sviluppati ed emergenti concentrandosi su ESG, in aziende Large & Mid Cap di tipo Growth & Value.'
+
+Riassunto generato Pegasus
+'Il fondo investe principalmente in obbligazioni di tipo Corporate&Government in societ con sede in tutto il mondo, specialmente in Mercati sviluppati ed emergenti. I titoli appartegono a Classe di Rating Speculativa e appartengono a tutte le scadenze.'
+
+
+Testo:
+'Il fondo investe principalmente in obbligazioni denominate in euro,mantenendo al contempo bassa la duration. Il debito strutturato investment grade può rappresentare fino al 20% del patrimonio. I criteri ambientale, sociale e di governance (ESG) contribuiscono, ma non sono un fattore determinante, al processo decisionale del gestore. Il Fondo mira ad aumentare il valore delle proprie attività nel medio termine investendo in obbligazioni e/o strumenti di debito emessi da società europee e/o società operanti in Europa.'
+
+Riassunto riferimento:
+'Il fondo investe principalmente in obbligazioni di tipo Corporate in società con sede in Europa, specialmente in Mercati sviluppati. I titoli appartegono a Tutte le Classi di Rating (Speculative e Investment Grade) e hanno scadenza a Breve-Medio Termine.'
+
+Riassunto generato Bart:
+'Il comparto deterrà prevalentemente obbligazioni di tipo Corporate&Government in società con sede in Europa, specialmente in Mercati area Emu. I titoli appartegono a Classe di Rating Investment Grade e appartengono a tutte le scadenze.'
+
+Riassunto generato Pegasus:
+'Il comparto deterr prevalentemente obbligazioni di tipo Corporate&Government in societ con sede in Europa, specialmente in Mercati area Emu. I titoli appartegono a Classe di Rating Speculativa e appartengono a tutte le scadenze.'
